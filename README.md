@@ -27,7 +27,7 @@
 <!--Intro start-->
 - 🔭 "El problema no es el problema. El problema es tu actitud sobre el problema."
 
-- 🌱 Estudiante en **Licenciatura en Sistemas**
+- 🌱 Estudiante en **Licenciatura en Sistemas** y **tecnico electromecanico**
 
 - ☁️ Interesado en el **mundo de la informatica y electromecanica**
 
@@ -48,7 +48,13 @@
 
 ## Repos
 
-- [FOD](https://github.com/agssss20/Fundamentos-de-organizacion-de-datos)
+<div>
+  <p align="center">
+	<a href="https://github.com/agssss20/Fundamentos-de-organizacion-de-datos">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=agssss20&repo=Fundamentos-de-organizacion-de-datos&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
 
 
 github README stats:
