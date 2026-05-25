@@ -1,5 +1,7 @@
 
 <!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -61,4 +63,5 @@ github README stats:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agssss20&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/agssss20/github-readme-activity-graph)
 
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
