@@ -9,16 +9,12 @@
   </ul>
 </div>
 
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">La confusion es parte de la programacion</h2></summary>
   </ul>
 </div>
-
-
 
 <!--Intro start-->
 - 🔭 "El problema no es el problema. El problema es tu actitud sobre el problema."
@@ -28,45 +24,6 @@
 - ☁️ Interesado en el **mundo de la informatica y electromecanica**
 
 <!--Intro end-->
-
-
-
-
-
-github README stats:
-
-![agssss20 GitHub stats](https://github-readme-stats.vercel.app/api?username=agssss20&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agssss20&theme=radical)](https://git.io/streak-stats) 
-
-
-
-
-
-
-
-
-
-
-## Repositorios
-
-<a href="https://github.com/agssss20/Fundamentos-de-organizacion-de-datos">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agssss203&repo=Website-Blocker&theme=tokyonight" />
-
-</a>  
-
-
-
-
-
-
-
-
-
-
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -81,8 +38,10 @@ github README stats:
   </a>
 </p>
 
+github README stats:
 
-
+![agssss20 GitHub stats](https://github-readme-stats.vercel.app/api?username=agssss20&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agssss20&theme=radical)](https://git.io/streak-stats) 
 
 <!--profile visit count-->
 <div align="center">
