@@ -1,11 +1,5 @@
 
 <!--horizontal divider(gradiant)-->
-<div align="center">
-  
-[this is for the picture]: #	
-<div id="header">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -51,7 +45,7 @@
 <div>
   <p align="center">
 	<a href="https://github.com/agssss20/Fundamentos-de-organizacion-de-datos">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=agssss20&repo=Fundamentos-de-organizacion-de-datos&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=agssss20&repo=Fundamentos-de-organizacion-de-datos&theme=tokyonight" alt="FOD" />
     	</a>
   </p>
 </div>
