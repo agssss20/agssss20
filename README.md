@@ -62,10 +62,3 @@ github README stats:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agssss20&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/agssss20/github-readme-activity-graph)
 
 
-
-<p align="center">
-  <a href="https://github.com/agssss20">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=agssss20&&theme=tokyonight" alt="agssss20" />
-  </a>
-</p>
-
