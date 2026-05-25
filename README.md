@@ -38,7 +38,7 @@
 
 github README stats:
 
-![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=agssss20&show_icons=true&theme=radical) 
+![agssss20 GitHub stats](https://github-readme-stats.vercel.app/api?username=agssss20&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agssss20&theme=radical)](https://git.io/streak-stats) 
 
 <!--h1 without bottom border-->
