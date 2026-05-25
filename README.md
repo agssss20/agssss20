@@ -38,6 +38,17 @@
   </a>
 </p>
 
+## Repos
+
+<a href="https://github.com/agssss20/Fundamentos-de-orgnizacion-de-datos">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agssss20&repo=Fundamentos-de-organizacion-de-datos&theme=tokyonight" />
+
+</a>  
+
+
 github README stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agssss20&theme=radical)](https://git.io/streak-stats) 
