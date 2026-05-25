@@ -16,7 +16,6 @@
   </ul>
 </div>
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 
 <!--Intro start-->
 - 🔭 "El problema no es el problema. El problema es tu actitud sobre el problema."
@@ -40,15 +39,9 @@
   </a>
 </p>
 
-## Repos
-
-<div>
-  <p align="center">
-	<a href="https://github.com/agssss20/Fundamentos-de-organizacion-de-datos">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=agssss20&repo=Fundamentos-de-organizacion-de-datos&theme=tokyonight" alt="FOD" />
-    	</a>
-  </p>
-</div>
+## Repos <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=Fundamentos-de-organizacion-de-datos&theme=github_dark_dimmed)](https://github.com/agssss20/Fundamentos-de-organizacion-de-datos)
+<br>
 
 
 github README stats:
