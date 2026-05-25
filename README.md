@@ -19,6 +19,7 @@
 </div>
 
 
+
 <!--Intro start-->
 - 🔭 "El problema no es el problema. El problema es tu actitud sobre el problema."
 
@@ -30,23 +31,12 @@
 
 
 
+
+
 github README stats:
 
 ![agssss20 GitHub stats](https://github-readme-stats.vercel.app/api?username=agssss20&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agssss20&theme=radical)](https://git.io/streak-stats) 
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://github.com/agssss20/agssss20/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
-
 
 
 
