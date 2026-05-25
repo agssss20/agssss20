@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">La confusion es parte de la programacion</h2></summary>
   </ul>
 </div>
 
@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 "El problema no es el problema. El problema es tu actitud sobre el problema."
 
-- 🌱 Estudiante en ++Licenciatura en Sistemas**
+- 🌱 Estudiante en **Licenciatura en Sistemas**
 
 - ☁️ Interesado en el **mundo de la informatica y electromecanica**
 
@@ -46,7 +46,6 @@
     <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,cs,java,vscode&perline=14" />
   </a>
 </p>
-
 
 
 <!--profile visit count-->
