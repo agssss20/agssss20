@@ -10,12 +10,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -34,7 +28,7 @@
 
 <!--Intro end-->
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 github README stats:
 
@@ -45,6 +39,17 @@ github README stats:
 <p align="center">
   <img src="https://github.com/agssss20/agssss20/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
+
+## Repositorios
+
+<a href="https://github.com/agssss20/FOD">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agssss203&repo=Website-Blocker&theme=tokyonight" />
+
+</a>  
+
 
 
 <!--h1 without bottom border-->
