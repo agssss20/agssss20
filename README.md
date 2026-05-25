@@ -9,12 +9,21 @@
   </ul>
 </div>
 
+<div align="center">
+  
+[this is for the picture]: #	
+<div id="header">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">La confusion es parte de la programacion</h2></summary>
   </ul>
 </div>
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 
 <!--Intro start-->
 - 🔭 "El problema no es el problema. El problema es tu actitud sobre el problema."
@@ -40,13 +49,7 @@
 
 ## Repos
 
-<a href="https://github.com/agssss20/Fundamentos-de-organizacion-de-datos">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agssss20&repo=Fundamentos-de-organizacion-de-datos&theme=tokyonight" />
-
-</a>  
+- [FOD](https://github.com/agssss20/Fundamentos-de-organizacion-de-datos)
 
 
 github README stats:
