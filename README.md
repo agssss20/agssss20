@@ -42,7 +42,7 @@ github README stats:
 
 ## Repositorios
 
-<a href="https://github.com/agssss20/FOD">
+<a href="https://github.com/agssss20/Fundamentos-de-organizacion-de-datos">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
