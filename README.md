@@ -41,10 +41,6 @@ github README stats:
 ![agssss20 GitHub stats](https://github-readme-stats.vercel.app/api?username=agssss20&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agssss20&theme=radical)](https://git.io/streak-stats) 
 
-<a href="https://github.com/agssss20">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agssss20&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github.com/agssss20/agssss20/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
