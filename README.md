@@ -36,9 +36,26 @@ github README stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agssss20&theme=radical)](https://git.io/streak-stats) 
 
 
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://github.com/agssss20/agssss20/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
+
+
+
+
+
+
+
+
+
+
 
 ## Repositorios
 
@@ -49,6 +66,15 @@ github README stats:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agssss203&repo=Website-Blocker&theme=tokyonight" />
 
 </a>  
+
+
+
+
+
+
+
+
+
 
 
 
@@ -64,6 +90,8 @@ github README stats:
     <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,cs,java,vscode&perline=14" />
   </a>
 </p>
+
+
 
 
 <!--profile visit count-->
