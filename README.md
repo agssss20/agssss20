@@ -11,6 +11,9 @@
 </div>
 
 
+<img width="500" height="208" alt="Image" src="https://github.com/user-attachments/assets/8896c96c-eaa7-44a0-a197-5f8f87c2b25d" />
+
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -42,6 +45,7 @@
 </p>
 
 ## Repos <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
+<img width="210" height="210" alt="Image" src="https://github.com/user-attachments/assets/f335b310-0bb2-4031-b236-5af012211d71" />
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=Fundamentos-de-organizacion-de-datos&theme=github_dark_dimmed)](https://github.com/agssss20/Fundamentos-de-organizacion-de-datos)
 <br>
 
