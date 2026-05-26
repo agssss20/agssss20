@@ -15,12 +15,6 @@
 </p>
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">La confusion es parte de la programacion</h2></summary>
-  </ul>
-</div>
-
 
 <!--Intro start-->
 - 🔭 "El problema no es el problema. El problema es tu actitud sobre el problema."
