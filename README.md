@@ -19,9 +19,9 @@
 <!--Intro start-->
 - 🔭 "El problema no es el problema. El problema es tu actitud sobre el problema."
 
-- 🌱 Estudiante en **Licenciatura en Sistemas** y **tecnico electromecanico**
+- 🌱 Estudiante en **Licenciatura en Sistemas** y **tecnico electromecanico**.
 
-- ☁️ Interesado en el **mundo de la informatica y electromecanica**
+- ☁️ Interesado en el **mundo de la informatica y electromecanica**.
 
 <!--Intro end-->
 
