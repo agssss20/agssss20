@@ -71,7 +71,7 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">Proyectos</h2></summary><picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="150" alt="Software_Tools"></picture>
     
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=proyectocsharp&theme=github_dark_dimmed)](https://github.com/agssss20/proyectocsharp)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=Sistema-de-Gestion-de-Expedientes-SGE&theme=github_dark_dimmed)](https://github.com/agssss20/Sistema-de-Gestion-de-Expedientes-SGE)
 <br>
 
   </ul>
