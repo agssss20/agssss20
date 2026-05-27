@@ -76,15 +76,17 @@
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=proyectocsharp&theme=github_dark_dimmed)](https://github.com/agssss20/proyectocsharp)
 <br>
 
-<ul align="center">
-  #### Stats
-</ul>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Stats</h2></summary>
+  </ul>
+</div>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agssss20&theme=holi-theme">
 </p>
 
 <!--grafico-->
-<h3 align="left">Activity:</h3>
+<h3 align="left">Actividad:</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agssss20&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/agssss20/github-readme-activity-graph)
 
