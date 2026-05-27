@@ -44,7 +44,15 @@
 
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=Fundamentos-de-organizacion-de-datos&theme=github_dark_dimmed)](https://github.com/agssss20/Fundamentos-de-organizacion-de-datos)
 <br>
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=organizacion-de-computadoras&theme=github_dark_dimmed)](https://github.com/agssss20/organizacion-de-computadoras)
+<br>
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=cadp-taller&theme=github_dark_dimmed)](https://github.com/agssss20/cadp-taller)
+<br>
 
+## Proyectos <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
+
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=proyectocsharp&theme=github_dark_dimmed)](https://github.com/agssss20/proyectocsharp)
+<br>
 
 github README stats:
 
