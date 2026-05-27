@@ -15,7 +15,7 @@
 </p>
 
 <!--h2 without bottom border-->
-👩‍💻 ##Sobre mí
+##👩‍💻 Sobre mí
 <!--Intro start-->
 - 🔭 "El problema no es el problema. El problema es tu actitud sobre el problema."
 
