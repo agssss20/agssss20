@@ -42,12 +42,15 @@ Repositorios
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">📘Primer año</h2></summary>
-  </ul>
-</div>
-
+    
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=cadp-taller&theme=github_dark_dimmed)](https://github.com/agssss20/cadp-taller)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=organizacion-de-computadoras&theme=github_dark_dimmed)](https://github.com/agssss20/organizacion-de-computadoras)
 <br>
+
+  </ul>
+</div>
+
+
 
 <div id="user-content-toc">
   <ul align="center">
@@ -55,9 +58,6 @@ Repositorios
   </ul>
 </div>
 
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=Fundamentos-de-organizacion-de-datos&theme=github_dark_dimmed)](https://github.com/agssss20/Fundamentos-de-organizacion-de-datos)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=practicascsharp&theme=github_dark_dimmed)](https://github.com/agssss20/practicascsharp)
-<br>
 
 <div id="user-content-toc">
   <ul align="center">
