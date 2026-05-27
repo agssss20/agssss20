@@ -55,7 +55,7 @@
 
 #### Stats
 <p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=agssss20&theme=onedark" alt="agssss20" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agssss20&theme=holi-theme">
 </p>
 
 <!--grafico-->
