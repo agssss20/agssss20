@@ -36,8 +36,12 @@
   </a>
 </p>
 
-Repositorios 
-<img width="110" height="110" alt="Image" src="https://github.com/user-attachments/assets/f335b310-0bb2-4031-b236-5af012211d71" />
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Repositorios</h2></summary>
+    <img width="110" height="110" alt="Image" src="https://github.com/user-attachments/assets/f335b310-0bb2-4031-b236-5af012211d71" />
+  </ul>
+</div> 
 
 <div id="user-content-toc">
   <ul align="center">
@@ -65,10 +69,9 @@ Repositorios
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Proyectos</h2></summary>
+    <summary><h2 style="display: inline-block">Proyectos</h2></summary><picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
   </ul>
-</div> <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
-
+</div> 
 
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=proyectocsharp&theme=github_dark_dimmed)](https://github.com/agssss20/proyectocsharp)
 <br>
