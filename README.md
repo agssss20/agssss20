@@ -70,11 +70,13 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Proyectos</h2></summary><picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="100" alt="Software_Tools"></picture>
+    
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=proyectocsharp&theme=github_dark_dimmed)](https://github.com/agssss20/proyectocsharp)
+<br>
+
   </ul>
 </div> 
 
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=proyectocsharp&theme=github_dark_dimmed)](https://github.com/agssss20/proyectocsharp)
-<br>
 
 <div id="user-content-toc">
   <ul align="center">
