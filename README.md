@@ -80,7 +80,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Stats</h2></summary>
+    <summary><h2 style="display: inline-block">GitHub Stats</h2></summary>
   </ul>
 </div>
 <p align="center">
@@ -88,7 +88,7 @@
 </p>
 
 <!--grafico-->
-<h3 align="left">Actividad:</h3>
+<h3 align="left">Actividad</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agssss20&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/agssss20/github-readme-activity-graph)
 
