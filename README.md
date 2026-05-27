@@ -69,7 +69,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Proyectos</h2></summary><picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
+    <summary><h2 style="display: inline-block">Proyectos</h2></summary><picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="100" alt="Software_Tools"></picture>
   </ul>
 </div> 
 
