@@ -44,7 +44,6 @@
 
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=Fundamentos-de-organizacion-de-datos&theme=github_dark_dimmed)](https://github.com/agssss20/Fundamentos-de-organizacion-de-datos)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=organizacion-de-computadoras&theme=github_dark_dimmed)](https://github.com/agssss20/organizacion-de-computadoras)
-<br>
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=cadp-taller&theme=github_dark_dimmed)](https://github.com/agssss20/cadp-taller)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=practicascsharp&theme=github_dark_dimmed)](https://github.com/agssss20/practicascsharp)
 <br>
@@ -57,7 +56,8 @@
 github README stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agssss20&theme=radical)](https://git.io/streak-stats) 
-
+<picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
+<img src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=agssss20&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="Aurorp1g" width="350" height="250">
 <!--profile visit count-->
 <div align="center">
   
