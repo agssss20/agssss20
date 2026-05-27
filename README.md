@@ -53,13 +53,20 @@
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=proyectocsharp&theme=github_dark_dimmed)](https://github.com/agssss20/proyectocsharp)
 <br>
 
-github stats:
-<div>
-    <img height="150" alt="stats graph" src="https://raw.githubusercontent.com/agssss20/agssss20/build/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-    <img height="150" alt="languages graph" src="https://raw.githubusercontent.com/agssss20/agssss20/build/profile-summary-card-output/tokyonight/3-stats.svg" />
-</div>
+#### Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=agssss20&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agssss20&layout=compact&theme=onedark" />
+</a>
+<br />
+<br />
+<p align="center">
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=agssss20&theme=onedark" alt="agssss20" />
+</p>
 
-------
 <!--grafico-->
 <h3 align="left">Activity:</h3>
 
