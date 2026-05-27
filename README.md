@@ -46,6 +46,7 @@
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=organizacion-de-computadoras&theme=github_dark_dimmed)](https://github.com/agssss20/organizacion-de-computadoras)
 <br>
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=cadp-taller&theme=github_dark_dimmed)](https://github.com/agssss20/cadp-taller)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=practicascsharp&theme=github_dark_dimmed)](https://github.com/agssss20/practicascsharp)
 <br>
 
 ## Proyectos <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
