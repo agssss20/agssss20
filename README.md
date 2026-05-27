@@ -35,25 +35,33 @@
     <img src="https://skillicons.dev/icons?i=git,discord,github,cs,dotnet,java,vscode&perline=14" />
   </a>
 </p>
+<ul align="center">
+  ## Repositorios 
+  <img width="110" height="110" alt="Image" src="https://github.com/user-attachments/assets/f335b310-0bb2-4031-b236-5af012211d71" />
+</ul>
 
-## Repositorios 
-<img width="110" height="110" alt="Image" src="https://github.com/user-attachments/assets/f335b310-0bb2-4031-b236-5af012211d71" />
-
-## Primer año
+<ul align="center">
+  ## 📘Primer año
+</ul>
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=cadp-taller&theme=github_dark_dimmed)](https://github.com/agssss20/cadp-taller)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=organizacion-de-computadoras&theme=github_dark_dimmed)](https://github.com/agssss20/organizacion-de-computadoras)
 <br>
-## Segundo año
+<ul align="center">
+  ## 📘Segundo año
+</ul>
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=Fundamentos-de-organizacion-de-datos&theme=github_dark_dimmed)](https://github.com/agssss20/Fundamentos-de-organizacion-de-datos)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=practicascsharp&theme=github_dark_dimmed)](https://github.com/agssss20/practicascsharp)
 <br>
-
-## Proyectos <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
+<ul align="center">
+  ## Proyectos <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
+</ul>
 
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=proyectocsharp&theme=github_dark_dimmed)](https://github.com/agssss20/proyectocsharp)
 <br>
 
-#### Stats
+<ul align="center">
+  #### Stats
+</ul>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agssss20&theme=holi-theme">
 </p>
