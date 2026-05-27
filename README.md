@@ -21,8 +21,6 @@
 
 - 🌱 Estudiante en **Licenciatura en Sistemas** y **tecnico electromecanico**.
 
-- ☁️ Interesado en el **mundo de la informatica y electromecanica**.
-
 <!--Intro end-->
 
 <!--h1 without bottom border-->
