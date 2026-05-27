@@ -36,7 +36,8 @@
   </a>
 </p>
 
-## Repositorios <img width="110" height="110" alt="Image" src="https://github.com/user-attachments/assets/f335b310-0bb2-4031-b236-5af012211d71" />
+## Repositorios 
+<img width="110" height="110" alt="Image" src="https://github.com/user-attachments/assets/f335b310-0bb2-4031-b236-5af012211d71" />
 
 ## Primer año
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=cadp-taller&theme=github_dark_dimmed)](https://github.com/agssss20/cadp-taller)
