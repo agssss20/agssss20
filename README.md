@@ -36,31 +36,35 @@
   </a>
 </p>
 
-<p align="center">
-  Repositorios 
-  
-  <img width="110" height="110" alt="Image" src="https://github.com/user-attachments/assets/f335b310-0bb2-4031-b236-5af012211d71" />
-</p>
+Repositorios 
+<img width="110" height="110" alt="Image" src="https://github.com/user-attachments/assets/f335b310-0bb2-4031-b236-5af012211d71" />
 
-<p align="center">
-   📘PRIMER AÑO
-</p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">📘Primer año</h2></summary>
+  </ul>
+</div>
 
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=cadp-taller&theme=github_dark_dimmed)](https://github.com/agssss20/cadp-taller)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=organizacion-de-computadoras&theme=github_dark_dimmed)](https://github.com/agssss20/organizacion-de-computadoras)
 <br>
 
-<p align="center">
-  📘SEGUNDO AÑO
-</p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">📘Segundo año</h2></summary>
+  </ul>
+</div>
 
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=Fundamentos-de-organizacion-de-datos&theme=github_dark_dimmed)](https://github.com/agssss20/Fundamentos-de-organizacion-de-datos)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=practicascsharp&theme=github_dark_dimmed)](https://github.com/agssss20/practicascsharp)
 <br>
 
-<ul align="center">
-  **PROYECTOS** <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
-</ul>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Proyectos</h2></summary>
+  </ul>
+</div> <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
+
 
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=proyectocsharp&theme=github_dark_dimmed)](https://github.com/agssss20/proyectocsharp)
 <br>
