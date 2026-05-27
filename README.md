@@ -36,22 +36,23 @@
   </a>
 </p>
 
-<ul align="center">
-  ## Repositorios 
+<p align="center">
+  Repositorios 
+  
   <img width="110" height="110" alt="Image" src="https://github.com/user-attachments/assets/f335b310-0bb2-4031-b236-5af012211d71" />
-</ul>
+</p>
 
-<ul align="center">
-   📘**PRIMER AÑO**
-</ul>
+<p align="center">
+   📘PRIMER AÑO
+</p>
 
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=cadp-taller&theme=github_dark_dimmed)](https://github.com/agssss20/cadp-taller)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=organizacion-de-computadoras&theme=github_dark_dimmed)](https://github.com/agssss20/organizacion-de-computadoras)
 <br>
 
-<ul align="center">
-  📘**SEGUNDO AÑO**
-</ul>
+<p align="center">
+  📘SEGUNDO AÑO
+</p>
 
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=Fundamentos-de-organizacion-de-datos&theme=github_dark_dimmed)](https://github.com/agssss20/Fundamentos-de-organizacion-de-datos)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=practicascsharp&theme=github_dark_dimmed)](https://github.com/agssss20/practicascsharp)
