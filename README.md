@@ -54,7 +54,10 @@
 <br>
 
 github stats:
-
+<div>
+    <img height="150" alt="stats graph" src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+    <img height="150" alt="languages graph" src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/tokyonight/3-stats.svg" />
+</div>
 
 ------
 <!--grafico-->
