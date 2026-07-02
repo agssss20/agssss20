@@ -131,14 +131,6 @@ Faculty of Informatics UNLP(National University of La Plata), Buenos Aires.
   </ul>
 </div> 
 <!--stats-->
-
-<br>
-<div id="user-content-toc">
-    <h2 style="display: inline-block"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">GitHub Stats </h2>
-</div>
-<p align="center">
-    
-</p>
 <!--grafico-->
 
 
