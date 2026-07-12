@@ -124,7 +124,6 @@ Faculty of Informatics UNLP(National University of La Plata), Buenos Aires.
     <summary><h2 style="display: inline-block">🖥️ Projects</h2></summary><picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="150" alt="Software_Tools"></picture>
     
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=Sistema-de-Gestion-de-Expedientes-SGE&theme=github_dark_dimmed)](https://github.com/agssss20/Sistema-de-Gestion-de-Expedientes-SGE)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=Web-Emails&theme=github_dark_dimmed)](https://github.com/agssss20/Web-Emails)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=Analisis-Negocios-EEUU&theme=github_dark_dimmed)](https://github.com/agssss20/Analisis-Negocios-EEUU)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=Analisis-Peliculas&theme=github_dark_dimmed)](https://github.com/agssss20/Analisis-Peliculas)
 <br>
