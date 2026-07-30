@@ -87,48 +87,7 @@ Technical secondary school Nº 2, Buenos Aires.
 Faculty of Informatics UNLP(National University of La Plata), Buenos Aires.
 <!--repositorios-->
   
-<div id="user-content-toc">
-  <ul align="center">
-    <h2 style="display: inline-block">📂 Repositories </h2>
-      <img width="110" height="110" alt="Image" src="https://github.com/user-attachments/assets/dbcb721b-6fad-4014-a327-a621b4693fc8" />
-  </ul>
-</div> 
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">📘First year Bachelor's Degree in Systems</h2></summary>
-    
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=CADP&theme=github_dark_dimmed)](https://github.com/agssss20/CADP)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=OC&theme=github_dark_dimmed)](https://github.com/agssss20/OC)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=Taller-De-Programacion&theme=github_dark_dimmed)](https://github.com/agssss20/Taller-De-Programacion)
-<br>
-
-  </ul>
-</div>
-
-
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">📗Second year Bachelor's Degree in Systems</h2></summary>
-    
-
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=Seminario-de-Lenguajes-.NET&theme=github_dark_dimmed)](https://github.com/agssss20/Seminario-de-Lenguajes-.NET)
-<br>
-    
-  </ul>
-</div>
-
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">🖥️ Projects</h2></summary><picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="150" alt="Software_Tools"></picture>
-    
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=Analisis-Negocios-EEUU&theme=github_dark_dimmed)](https://github.com/agssss20/Analisis-Negocios-EEUU)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=agssss20&repo=Analisis-Peliculas&theme=github_dark_dimmed)](https://github.com/agssss20/Analisis-Peliculas)
-<br>
-  </ul>
-</div> 
 <!--stats-->
 <!--grafico-->
 
