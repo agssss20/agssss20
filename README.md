@@ -20,7 +20,13 @@
 
 - 🌱 **Electromechanical Technician** and student in **Bachelor's Degree in Systems** based in Buenos Aires, Argentina.
 
-- 🚀 I'm really interested in learning and developing my skills in Industry 4.0, Machine Learning and Data Science. I'm expanding my knowledge through projects.
+- 🚀 I'm really interested in IIOT, Machine Learning and Data Science.
+
+<h4>CONTACT</h4>
+
+<a href="https://discordapp.com/users/agsss_">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+</a>
 
 <!--Intro end-->
 
@@ -70,11 +76,6 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </span>
 
-<h4>CONTACT</h4>
-
-<a href="https://discordapp.com/users/agsss_">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-</a>
 
 <!--educacion-->
 <br>
@@ -86,12 +87,8 @@ Technical secondary school Nº 2, Buenos Aires.
 <h4>Bachelor's Degree in Systems (in progress)</h4>
 Faculty of Informatics UNLP(National University of La Plata), Buenos Aires.
 <!--repositorios-->
-  
-
 <!--stats-->
 <!--grafico-->
-
-
 
 <br>
 <div id="user-content-toc">
